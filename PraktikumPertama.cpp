@@ -2,7 +2,7 @@
 using namespace std;
 
 int main()
-{
+{//begin
 
     int nPanjang, nLebar, nLuas;
     cout << "Masukkan Panjang = ";
@@ -14,5 +14,5 @@ int main()
 
     system("pause");
 
-}
+}//end
 
